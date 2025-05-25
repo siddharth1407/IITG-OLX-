@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d0fad78.chunk.css",
+    "main.js": "/static/js/main.34b4e3cf.chunk.js",
+    "main.js.map": "/static/js/main.34b4e3cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7083eda1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7083eda1.js.map",
+    "static/css/2.1e5c032b.chunk.css": "/static/css/2.1e5c032b.chunk.css",
+    "static/js/2.3a827586.chunk.js": "/static/js/2.3a827586.chunk.js",
+    "static/js/2.3a827586.chunk.js.map": "/static/js/2.3a827586.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1e5c032b.chunk.css.map": "/static/css/2.1e5c032b.chunk.css.map",
+    "static/css/main.2d0fad78.chunk.css.map": "/static/css/main.2d0fad78.chunk.css.map",
+    "static/js/2.3a827586.chunk.js.LICENSE.txt": "/static/js/2.3a827586.chunk.js.LICENSE.txt",
+    "static/media/View.css": "/static/media/chatClose.589e235c.svg",
+    "static/media/olx-logo.b3f099a2.png": "/static/media/olx-logo.b3f099a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7083eda1.js",
+    "static/css/2.1e5c032b.chunk.css",
+    "static/js/2.3a827586.chunk.js",
+    "static/css/main.2d0fad78.chunk.css",
+    "static/js/main.34b4e3cf.chunk.js"
+  ]
+}
