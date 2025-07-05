@@ -28,29 +28,35 @@
 ## Folder Structure
 olx-iitg/
 ├── public/
-│   └── index.html
+│ └── index.html
 ├── src/
-│   ├── components/
-│   │   ├── Auth/
-│   │   │   ├── LoginScreen.js
-│   │   │   └── SignupScreen.js
-│   │   ├── DeleteConfirmationModal.js
-│   │   ├── Header.js
-│   │   ├── MyProducts.js
-│   │   ├── ProductCard.js
-│   │   ├── ProductList.js
-│   │   ├── ProductDetailPage.js
-│   │   ├── ProfileScreen.js
-│   │   └── SellProductForm.js
-│   ├── firebase/
-│   │   └── FirebaseContext.js
-│   ├── App.js
-│   ├── MainAppContent.js
-│   ├── index.js
-│   └── index.css
+│ ├── components/
+│ │ ├── Auth/
+│ │ │ ├── LoginScreen.js
+│ │ │ └── SignupScreen.js
+│ │ ├── ProductCard.js
+│ │ ├── ProductList.js
+│ │ ├── Header.js
+│ │ ├── MyProducts.js
+│ │ └── DeleteConfirmationModal.js
+│ ├── pages/
+│ │ ├── SellProductForm.js
+│ │ ├── ProductDetailPage.js
+│ │ └── ProfileScreen.js
+│ ├── firebase/
+│ │ └── FirebaseContext.js
+│ ├── App.js
+│ ├── index.js
+│ └── index.css
+├── screenshots/
+│ ├── signin.png
+│ ├── home.png
+│ └── sellpage.png
+├── .env
 ├── .gitignore
+├── README.md
 ├── package.json
-└── README.md
+└── package-lock.json
 
 
 ## 📦 Installation
