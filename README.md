@@ -25,7 +25,7 @@
 ---
 
 ## 📁 Folder Structure
-
+```bash
 olx-iitg/
 ├── public/
 │ └── index.html
@@ -57,7 +57,7 @@ olx-iitg/
 ├── README.md
 ├── package.json
 └── package-lock.json
-
+````
 
 
 
