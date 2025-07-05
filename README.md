@@ -1,31 +1,31 @@
 # 🛍️ OLX IITG - IITG Marketplace
 
-**OLX IITG** is a campus-centric buy-and-sell platform designed for students at IIT Guwahati. It enables users to post ads, browse second-hand products, and connect with peers—all within a secure, student-only environment.
+**OLX IITG** is a buy-and-sell platform exclusively for IIT Guwahati students. It allows users to list products, explore available items, and manage their listings with a clean and intuitive interface.
 
 ---
 
 ## 🚀 Features
 
-- 📦 Post and manage product listings
-- 🖼️ Upload product images and set categories
-- 🔍 Browse, search, and filter products
-- 🔐 Firebase email-based authentication
+- 🧾 Post product ads with title, description, category, price, and image
+- 🔍 Browse and filter listings by category and availability
 - 👤 View your posted items in a dashboard
-- 🧼 Clean and responsive UI (Tailwind + Material UI)
+- 🔐 Email/password authentication with Firebase
+- 🎨 Clean and responsive UI (Tailwind + Material UI)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js
-- **Styling**: Tailwind CSS, Material UI
-- **Routing**: React Router
-- **Authentication**: Firebase Auth (Email/Password)
-- **Storage**: Firebase Firestore
+- **Frontend**: React.js  
+- **Styling**: Tailwind CSS, Material UI  
+- **Routing**: React Router  
+- **Authentication**: Firebase Auth (Email/Password)  
+- **Storage**: Firebase Firestore *(to be integrated)*  
 
 ---
 
-## Folder Structure
+## 📁 Folder Structure
+
 olx-iitg/
 ├── public/
 │ └── index.html
@@ -59,9 +59,30 @@ olx-iitg/
 └── package-lock.json
 
 
+
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Sign In Page
+![Sign In](screenshots/signin.png)
+
+---
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+---
+
+### 📝 Sell Product Page
+![Sell Product](screenshots/sellpage.png)
+
+---
+
 ## 📦 Installation
 
-Clone the repository and run locally:
+To run the project locally:
 
 ```bash
 git clone https://github.com/your-username/olx-iitg.git
