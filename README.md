@@ -13,6 +13,22 @@
 - 🎨 Clean and responsive UI (Tailwind + Material UI)
 
 ---
+## 📸 Screenshots
+
+### 🔐 Sign In Page
+![Sign In](screenshots/signin.png)
+
+---
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+---
+
+### 📝 Sell Product Page
+![Sell Product](screenshots/sellpage.png)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -60,23 +76,6 @@ olx-iitg/
 ````
 
 
-
----
-
-## 📸 Screenshots
-
-### 🔐 Sign In Page
-![Sign In](screenshots/signin.png)
-
----
-
-### 🏠 Home Page
-![Home](screenshots/home.png)
-
----
-
-### 📝 Sell Product Page
-![Sell Product](screenshots/sellpage.png)
 
 ---
 
