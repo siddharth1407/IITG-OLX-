@@ -33,10 +33,10 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js  
-- **Styling**: Tailwind CSS, Material UI  
+- **Styling**: Tailwind CSS 
 - **Routing**: React Router  
 - **Authentication**: Firebase Auth (Email/Password)  
-- **Storage**: Firebase Firestore *(to be integrated)*  
+- **Storage**: Firebase Firestore
 
 ---
 
